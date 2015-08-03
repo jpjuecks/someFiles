@@ -1,0 +1,5 @@
+This is a text file.
+
+It consists of a sequence of ASCII characters.
+
+The end.
